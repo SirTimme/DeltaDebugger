@@ -64,5 +64,5 @@ h 5 -18 0
 e 12 0 
 ```
 
-# Example Ouput of the program
+# Example Output of the program
 ![image](https://user-images.githubusercontent.com/46893185/211194142-de7d41b3-724f-43a4-b679-29b13f7bb6e1.png)
