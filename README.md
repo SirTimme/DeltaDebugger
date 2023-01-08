@@ -1,10 +1,10 @@
 # DeltaDebugger
 
-Very basic implementation of a delta debugger. <br>
+Very basic implementation of a delta debugger for a WCNFParser. <br>
 When executed, the program tries to shrink the input specified in `TestInput.txt` to the minimum while preserving the error.
 
 # Example Input file
-For example the `e` in the input file produces an error in the WCNFParser.
+For example the `e` at the start of the line in the input file produces an error in the WCNFParser.
 ```
 c Standarized MaxSat Instance
 c{
@@ -21,7 +21,7 @@ c      "ave": 2.6534,
 c      "stddev": 0.6300 },
 c "nsofts": 10,
 c "nsoft_nlits": 10,
-e "nsoft_len_stats":
+c "nsoft_len_stats":
 c    { "min": 1,
 c      "max": 1,
 c      "ave": 1.0000,
@@ -59,6 +59,10 @@ h 15 -12 13 0
 h 5 -18 0
 ```
 
+# Input file after execution
+```
+e 12 0 
+```
 
 # Example Ouput of the program
 ![image](https://user-images.githubusercontent.com/46893185/211194142-de7d41b3-724f-43a4-b679-29b13f7bb6e1.png)
