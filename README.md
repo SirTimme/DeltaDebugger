@@ -66,3 +66,9 @@ e 12 0
 
 # Example Output of the program
 ![image](https://user-images.githubusercontent.com/46893185/211194142-de7d41b3-724f-43a4-b679-29b13f7bb6e1.png)
+
+# Remarks
+
+> Cant handle big inputs currently because the debugger tries to write while the input file is still in use
+
+> Only shrink the file to one error and discard any additional faulty input
