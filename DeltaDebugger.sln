@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaDebugger", "DeltaDebugger\DeltaDebugger.csproj", "{6B87486C-7534-477C-BC8E-6BE48E788629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B87486C-7534-477C-BC8E-6BE48E788629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B87486C-7534-477C-BC8E-6BE48E788629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B87486C-7534-477C-BC8E-6BE48E788629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B87486C-7534-477C-BC8E-6BE48E788629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0753D0C6-FC29-4F65-88CD-C8FD191595D8}
+	EndGlobalSection
+EndGlobal
