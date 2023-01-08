@@ -65,7 +65,7 @@ e 12 0
 ```
 
 # Example Output of the program
-![image](https://user-images.githubusercontent.com/46893185/211194142-de7d41b3-724f-43a4-b679-29b13f7bb6e1.png)
+![image](https://user-images.githubusercontent.com/46893185/211212292-4822f675-e3d1-40d6-8ac6-428e0d65892f.png)
 
 # Remarks
 
