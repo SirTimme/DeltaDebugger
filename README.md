@@ -71,4 +71,4 @@ e 12 0
 
 > Cant handle big inputs currently because the debugger tries to write while the input file is still in use
 
-> Only shrink the file to one error and discard any additional faulty input
+> Only shrinks the file to one error and discard any additional faulty input
